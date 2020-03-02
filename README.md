@@ -1,6 +1,8 @@
 # BioBio
 Cinema website project
 
+Krav:
+
 Header
 - loga och teama bakgrund.
 
