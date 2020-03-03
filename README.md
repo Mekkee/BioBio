@@ -1,2 +1,4 @@
 # BioBio
-Cinema website project
+Cinema web project
+
+using HTML & CSS
